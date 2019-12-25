@@ -1,0 +1,14 @@
+class Office:
+    def Offname
+
+
+
+
+
+
+
+
+
+
+
+
